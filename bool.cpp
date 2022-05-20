@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-  
     int n, i, c = 0;
     cout << "Enter any number n: ";
      cin>>n;
